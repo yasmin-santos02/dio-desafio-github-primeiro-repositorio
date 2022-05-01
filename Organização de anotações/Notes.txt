@@ -1,0 +1,17 @@
+Criação do primeiro repositório no GitHub:
+
+1º Passo:
+
+- Sinal de + ao lado do seu usuário
+- New Repository
+- Adicione um nome ao repositório
+- Adicione um README caso prefira
+- Clique em "Create repository"
+
+2º Passo:
+
+- Para editar localmente, copie o link https do repositório no botão verde Code
+- Abra o Git Bash na pasta que preferir
+- comando "git clone" e cole o link copiado
+- Para passar as informações localmente para o GitHub escreva o comando "git add ." e "git commit -m "inclusão de alterações para anotação""
+- executar o push "git push origin main"(envia os commits localmente para a nuvem)
